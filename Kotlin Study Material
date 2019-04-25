@@ -1,1 +1,79 @@
+Why kotlin ? 
+
+Code readability 
+Increased null safety with nullable and non-nullable data types
+Open sourced
+Concise code, remove boiler pointer
+Supports lambdas and higher-order functions
+Fully compatible with the Java language, so that you can migrate over time and continue using your favorite libraries
+Officially supported for Android development, and included with IntelliJ and Android Studio
+
+http://kotlinlang.org/docs/reference/
+
+numbers are treated as Premitive but you can call methods on them as object
+val has functions such as 
+plus() 
+minus()
+times()
+div() 
+
+Number is equals Integer (Boxing)
+
+
+Two Type of Data type 
+1) UnChangable (val ) - Can't assign again 
+2) Chanable (var) - can assign again 
+
+once type is determinied you can not change it 
+var ashu = 21 
+ashu = 52 (OK)
+ashu = "Hello" (Error)
+
+you can define constant as below 
+val onelakh = 100_000 (underscore is allowed)
+
+? allow null value 
+var lotsOfFish : List<String>? = null
+
+! called bang operator and !! called double bang operator 
+it is bad idea to use bang operator becacuse it fources you past null type ... you can call your function on null object. 
+it will result null pointer exception 
+
+?: called elvis operator .. you can use it to give alternetive value .. it is not ternary operator 
+it is named after elivs presly hair style 
+
+listOf allows list of null value 
+var list : List<Int?>? = listOf(null, null)
+println(num?.inc() ?: 0)
+
+Strings 
+
+You can use $Variable name to replace it with actual value
+var thisYear = 2019
+println("This year is $thisYear and next year will be ${thisYear.inc()}")
+
+
+Boolean 
+
+== sign is value comparision 
+
+
+
+there is 
+
+if else statement  - as anyother language 
+when - kotlin way of switch case 
+
+var welcomeMessage = "Hello and welcome to Kotlin"
+when (welcomeMessage.length) {
+   0 -> println("Nothing to say?")
+   in 1..50 -> println("Perfect")
+   else -> println("Too long!")
+}
+
+
+
+
+
+
 
