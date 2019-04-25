@@ -10,6 +10,8 @@ Officially supported for Android development, and included with IntelliJ and And
 
 http://kotlinlang.org/docs/reference/
 
+
+===================================================Basics========================================
 numbers are treated as Premitive but you can call methods on them as object
 val has functions such as 
 plus() 
@@ -71,6 +73,34 @@ when (welcomeMessage.length) {
    else -> println("Too long!")
 }
 
+
+Arrays and loop 
+
+val array = Array(5){it *3}
+println(java.util.Arrays.toString(array))
+
+You can use index and element to iterate loop 
+for((index, element) in array.withIndex()){
+   print("item at $index with value $element")
+}
+
+for(i in b..g){
+   print(i)
+} 
+
+for(i in 1..10){
+   print(i)
+} 
+
+for(i in 5 downTo 1){
+   print(i)
+} 
+
+for(i in 3..6 step 2){
+   print(i)
+} 
+
+====================================================Functions=================================
 
 
 
