@@ -55,6 +55,8 @@ Interface vs abstract
 
 AIDL 
 
+Thumbnail and progressive download for image
+
 Share data From fragment to fragment with interface 
 How to share data b/w 100 object 
 Difference b/w Rx and live data
