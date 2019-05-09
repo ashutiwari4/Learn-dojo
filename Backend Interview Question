@@ -1,1 +1,3 @@
-
+Binary Protocols
+Compress header for lighter request
+Request multiplexing over single TCP connection avoids multiple connection if many requests are fired simultaneously.
