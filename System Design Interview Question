@@ -1,9 +1,15 @@
 Design Twitter Timeline
 Design PasteBin 
 Design facebook chat 
+
 Design Netflix 
+http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
+
 Design logging System 
+
 Design Anlytics System 
+http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html 
+
 Design Amazon home page 
 Design Quora 
 Design StackOverflow 
@@ -13,3 +19,5 @@ Design Instagram
 Design Uber or OLA 
 Design TikTok
 Design Tinder
+Design Bots 
+http://highscalability.com/blog/2017/3/15/architecture-of-probot-my-slack-and-messenger-bot-for-answer.html
