@@ -121,10 +121,20 @@ Vs   Hashmap hashMap = new HashMap()
 hasMap.put(1, obj)
 hashMap(2, obj)
 
-==================== Version Control =================================
 
+===================== Testing =======================================
+How do you mock dependencies.
+Where do you write your unit text cases. 
+How do you handle static function and variable in text function. 
+Mockito vs PowerMock
+Appium. 
+
+==================== Version Control =================================
 Git merger and rebase 
 
+====================== CI/CD =======================================
+What is Jenkins?
+How does it help? 
 
 ==================== HR ===============================================
 
