@@ -24,12 +24,16 @@ What is AIDL? Give an example of this ?
 Track location continuously.
 
 
-======================== Content Provider ================================
+======================== Data ================================
 
 What is Content provider ? 
 What permissions are required ?
 What is advantages of content provider over sql db ? 
 What is difference b/w Content Provider and Room DB ? 
+How do you save data while rotation of screen.
+What is SyncAdapter? 
+
+
 
 ======================== Network ======================================
 
@@ -39,6 +43,7 @@ Thread vs Process
 How do you post data to server every 15 Mins 
 How do you build a chat application 
 Polling vs scoket in context of Android
+How do you encrypt your data
 
 
 ====================== KOTLIN =====================================
@@ -73,13 +78,26 @@ A -> B -> C use result
 
 How to add section header with data 
 How to modify data in list on basis of server data 
+difference b/w FCM and GCM 
+Handler vs looper 
+Deeplinking vs appindexing 
+
+
+
+==================== Build System ====================================
+Gradle vs Maven vs Ant
+DVM vs ART
+JIT and AOD compilation 
+How do you reduce build time 
+how do you obfuscate build 
+how do you obfuscate Resources in a build 
 
 ===================== Collection =======================================
 
 Arrays vs ArrayList
 
 
-===================== Design Pattern ===================================
+===================== Design Pattern and fallbacks ===================================
 
 Singleton vs util class
 MVVM vs MVP vs MVC
@@ -91,6 +109,8 @@ GET, POST, DELETE, PUT
 Reflection
 Interface vs abstract
 How to share data b/w 100 object 
+RSA vs AES
+Lamda function 
 
 Hash map vs hash table 
 Final Hashmap hashMap = new HashMap()
