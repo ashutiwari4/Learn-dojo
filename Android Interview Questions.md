@@ -1,4 +1,4 @@
-====================================== Views ========================================
+===================== Views ========================================
 What is Recycler View ? 
 How is it different with ListView. 
 How to put different animation on different items 
@@ -14,23 +14,30 @@ Custom views what needs to be overrides
 Difference b/w scrollview, list view and recylerview
 
 
-======================================== Services =====================================
+===================== Services =====================================
 What is Intent Service ? 
 Binded Services 
 UnBound Service 
 What is AIDL? Give an example of this ?  
-Track location continuously
+Track location continuously.
 
 
-======================================= Content Provider ================================
+======================== Content Provider ================================
 What is Content provider ? 
 What permissions are required ?
 What is advantages of content provider over sql db ? 
 What is difference b/w Content Provider and Room DB ? 
 
+======================== Network ======================================
+Volley vs Retrofit
+AsyncTask vs AsyncTaskLoader
+Thread vs Process
+How do you post data to server every 15 Mins 
+How do you build a chat application 
+Polling vs scoket in context of Android
 
 
-============================================ KOTLIN =====================================
+====================== KOTLIN =====================================
 Difference b/w lateinit & letinit
 Difference b/w val and var
 Co-routine 
@@ -38,14 +45,14 @@ Singleton in kotlin
 Genrics in Kotlin
 
 
-============================================== JetPack ===================================
+====================== JetPack ===================================
 Live data vs mutable live data
 What are methods of RxJava
 Data Binding in XML 
 Difference b/w Rx and live data
 
 
-========================================== Miscellaneous =================================
+====================== Miscellaneous =================================
 Why do we need v4, v7 and V11 
 LaunchMode
 task flag - singleTop
@@ -60,17 +67,17 @@ A -> B -> C use result
 How to add section header with data 
 How to modify data in list on basis of server data 
 
-=================================== Collection ============================================
+===================== Collection ============================================
 Arrays vs ArrayList
 
 
-=================================== Design Pattern =========================================
+===================== Design Pattern =========================================
 Singleton vs util class
 MVVM vs MVP vs MVC
 
 GET, POST, DELETE, PUT 
 
-=========================================== JAVA ============================================
+==================== JAVA ============================================
 Reflection
 Interface vs abstract
 How to share data b/w 100 object 
@@ -84,14 +91,14 @@ Vs   Hashmap hashMap = new HashMap()
 hasMap.put(1, obj)
 hashMap(2, obj)
 
-=================================== Version Control ========================================
+==================== Version Control ========================================
 Git merger and rebase 
 
 
-======================================== HR ===============================================
+==================== HR ===============================================
 Why am I looking for another opening  
 
 
 
-================================= Reference and links ======================================
+================== Reference and links ======================================
 https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def
