@@ -1,3 +1,72 @@
+================= Collection ==================
+Internal working of hashmap
+Load factor and capacity in hashmap
+Hashmap puzzle
+Internal arraylist working
+Comparator versus comparable
+
+========================Design Pattern=====================
+What is singleton class and implement that
+
+
+===========================JAVA ==========================
+Why string is immutable or final in java
+What is string pool (how many objects are created puzzle)
+Difference between java heap space and stack memory
+How we clear memory in java (garbage collection)
+What is cloning : deep cloning :
+How many ways are there to create an object in java
+String Pool and Heap
+Create immutable class in java ; Puzzle of immutable : send hashmap
+
+
+
+==================Thread =================
+What is thread in java
+Thread states / Thread lifecycle in java
+How to create threads in java and which is a better way
+Can we call run method of a class and will that behave
+Can we start thread again in java? IllegalThreadStateException
+What is race condition? Solution to it
+Solve consumer/producer problem using wait/notify
+
+===================== Exception =====================
+Checked Unchecked Exception
+Throw vs Throws
+
+
+
+
+===================== Algorithm=============
+Middle element of linked list
+Insert a node in sorted linked list
+Sort an array of 0’s and 1’s
+"	IsLinkedListContainsLoop"
+
+Middle element of link list
+pre order traversal without recursion
+sort array of 0s and 1
+check if number is palindrome(12321, 5445) using arithematic operations
+shuffle an array
+how to reverse a single link list
+check if string contains all letter of english alphabet  for e.g. 'The quick brown fox jumps over the lazy dog'
+
+===================== J2EE==========================
+Lifecycle of spring bean
+What is inversion of control?
+get and load
+caching
+HQL
+what is dirty checking
+save vs saveOrUpdate
+what if you modify a detached object and try to save it
+lazy fetching
+query caching
+
+build phases
+repositories
+parent pom
+maven plugins
 Binary Protocols
 Compress header for lighter request
 Request multiplexing over single TCP connection avoids multiple connection if many requests are fired simultaneously.
