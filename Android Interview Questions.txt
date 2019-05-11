@@ -64,6 +64,7 @@ Difference b/w val and var
 Singleton in kotlin 
 Genrics in Kotlin
 What are Co-routines
+https://www.youtube.com/watch?v=BOHK_w09pVA
 Kotlin Internals
 https://www.youtube.com/watch?v=Ta5wBJsC39s
 
