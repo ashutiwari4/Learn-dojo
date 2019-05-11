@@ -13,6 +13,11 @@ Difference b/w Fragment Manager, supportFragment Manager, childFragmentManager ?
 Fragment life cycle ? 
 Custom views what needs to be overrides 
 Difference b/w scrollview, list view and recylerview
+What is constraint layout? How does it help performance
+MotionLayout
+https://youtu.be/29gLA90m6Gk?t=667
+
+Jetpack Navigation
 
 
 ===================== Services =====================================
@@ -32,6 +37,11 @@ What is advantages of content provider over sql db ?
 What is difference b/w Content Provider and Room DB ? 
 How do you save data while rotation of screen.
 What is SyncAdapter? 
+What is Room ?
+https://youtu.be/Qxj2eBmXLHg?t=1563
+{MATCH, DatabaseView}
+
+Pagging 
 
 
 
@@ -44,16 +54,18 @@ How do you post data to server every 15 Mins
 How do you build a chat application 
 Polling vs scoket in context of Android
 How do you encrypt your data
+WorkManager
 
 
 ====================== KOTLIN =====================================
 
 Difference b/w lateinit & letinit
 Difference b/w val and var
-Co-routine 
 Singleton in kotlin 
 Genrics in Kotlin
 What are Co-routines
+Kotlin Internals
+https://www.youtube.com/watch?v=Ta5wBJsC39s
 
 
 ====================== JetPack ===================================
@@ -93,6 +105,9 @@ How do you reduce build time
 how do you obfuscate build 
 how do you obfuscate Resources in a build 
 
+================= System Framework ======================================
+Android JNI, ART (Android Run Time, Zygote, Activity Manager, Location Manager, Windows Manager, Vold, Package Manager, Install Daemon, Services, Fragments,Content Providers, Loaders,Broadcasts,Android Framework components, Debugging Android Framework Code, Understanding Android AOSP etc
+
 ===================== Collection =======================================
 
 Arrays vs ArrayList
@@ -129,6 +144,7 @@ Where do you write your unit text cases.
 How do you handle static function and variable in text function. 
 Mockito vs PowerMock
 Appium. 
+Roboelectric
 
 ==================== Version Control =================================
 Git merger and rebase 
