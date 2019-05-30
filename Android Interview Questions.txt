@@ -17,6 +17,8 @@ What is constraint layout? How does it help performance
 MotionLayout
 https://youtu.be/29gLA90m6Gk?t=667
 
+When fragment knows, it is binded with Acticity ?
+How headless fragment knows it is binded with a new activity?
 Jetpack Navigation
 
 
@@ -55,6 +57,8 @@ How do you build a chat application
 Polling vs scoket in context of Android
 How do you encrypt your data
 WorkManager
+what is JobSchedulers 
+
 
 
 ====================== KOTLIN =====================================
@@ -75,6 +79,8 @@ Live data vs mutable live data
 What are methods of RxJava
 Data Binding in XML 
 Difference b/w Rx and live data
+Can you bind multiple view model with same activity or fragment
+
 
 
 ====================== Miscellaneous =================================
@@ -97,6 +103,11 @@ Handler vs looper
 Deeplinking vs appindexing 
 Accessbility services
 https://developer.android.com/guide/topics/ui/accessibility/service
+
+What is clean architecture?
+What is coupling and cohasiveness with example 
+
+
 
 
 
@@ -130,6 +141,9 @@ Interface vs abstract
 How to share data b/w 100 object 
 RSA vs AES
 Lamda function 
+Whats is SOLID principle ?
+Producer and consumer problem.
+
 
 Hash map vs hash table 
 Final Hashmap hashMap = new HashMap()
@@ -148,6 +162,9 @@ How do you handle static function and variable in text function.
 Mockito vs PowerMock
 Appium. 
 Roboelectric
+What is Spy ?
+How do you test a void function ?
+
 
 ==================== Version Control =================================
 Git merger and rebase 
