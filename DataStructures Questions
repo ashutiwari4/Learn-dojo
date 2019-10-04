@@ -3,3 +3,8 @@
 
 2) . Given a String "MY NAME IS ASHU"
 print reverse of every word in string "YM EMAN SI UHSA"
+
+3) Clone linked list with multiple pointer (One Pointer will point to next element and other pointer will point anywhere in linkedlist)
+4) get Maximum sale value from an array
+  8, 1 , 4 , 6, 5 = buy at 1 and sale at 4, buy at 4 sale at 6 => 3+2 = 5
+  
